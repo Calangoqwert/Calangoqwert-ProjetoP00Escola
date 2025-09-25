@@ -65,6 +65,7 @@ def elogin():
                         if media < 6:
                             print("está reporvado(a)!")
                         else:
+                        
                             print("está aprovado(a)!")
                 elif menualuno == 2:
                     if turma == 1 :
