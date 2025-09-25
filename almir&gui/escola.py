@@ -65,7 +65,6 @@ def elogin():
                         if media < 6:
                             print("está reporvado(a)!")
                         else:
-                        
                             print("está aprovado(a)!")
                 elif menualuno == 2:
                     if turma == 1 :
@@ -113,6 +112,3 @@ def elogin():
     log()
 elogin()
 
-
-git config --global user.email "chilledosolv@gmail.com"
-git config --global user.name "Calangoqwert"
